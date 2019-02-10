@@ -1,2 +1,2 @@
 # DataPill
-The first version of my future companies logo.
+The first version of my future company's logo.
